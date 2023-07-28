@@ -26,4 +26,4 @@ def figure_area(figure='figure could be: square, rectangle, circle or triangle')
 
 
 figure_area()
-
+# 3 more
